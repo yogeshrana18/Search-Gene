@@ -38,7 +38,7 @@ docker run -it -d -p 5000:5000 flaskapp
 ## Use this UI home at port 5000: http://127.0.0.1/
 
 1. Choose search_gene and click
-  ![ScreenShot](https://github.com/yogeshrana18/Search-Gene/blob/master/Scr_shots/gene1.png?raw=true){:height="200px" width="200px"}
+  ![ScreenShot](https://github.com/yogeshrana18/Search-Gene/blob/master/Scr_shots/gene1.png?raw=true =250x250)
 2. Choose Get Api 
   ![ScreenShot](https://github.com/yogeshrana18/Search-Gene/blob/master/Scr_shots/gene2.png?raw=true)
 3. Click Try it out
