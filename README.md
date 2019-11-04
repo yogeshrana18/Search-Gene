@@ -40,6 +40,9 @@ docker run -it -d -p 5000:5000 flaskapp
 1. Choose search_gene and click
   ![ScreenShot](https://github.com/yogeshrana18/Search-Gene/blob/master/Scr_shots/gene1.png?raw=true)
 2. Choose Get Api 
+  ![ScreenShot](https://github.com/yogeshrana18/Search-Gene/blob/master/Scr_shots/gene2.png?raw=true)
 3. Click Try it out
+  ![ScreenShot](https://github.com/yogeshrana18/Search-Gene/blob/master/Scr_shots/gene3.png?raw=true)
 4. Fill parameter 
+  ![ScreenShot](https://github.com/yogeshrana18/Search-Gene/blob/master/Scr_shots/gene4.png?raw=true)
 5. Execute and Enjoy !!
