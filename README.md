@@ -1,5 +1,5 @@
 ## Topic Intro
-A Interactive Restful API developed in Python Flask with Swagger UI using Ensembl public database for getting genes list result.
+A Interactive Restful API developed in Python Flask with Swagger UI using public database for getting genes list result.
 
 ## Running Local
 ```
